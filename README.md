@@ -60,3 +60,5 @@ Text (`.odt`) output. PDF generation is native to Qt. DOCX and ODT use Pandoc.
 ## License
 
 GNU General Public License, version 3 or later. See `LICENSE`.
+
+If you enjoy this application and would like to support its development, donations are welcome via Zelle to eoftoro@gmail.com.
